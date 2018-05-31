@@ -30,6 +30,9 @@ return array(
             'ipFilters'=>array('127.0.0.1','::1'),
         ),
 
+    ),//配置参数
+    'params'=>array(
+        'index_url'=>'http://www.testyii.com/'
     ),
 
 	// 应用组件

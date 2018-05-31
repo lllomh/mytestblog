@@ -6321,3 +6321,1903 @@ REQUEST_URI=/index.php/admin/home/index
 2018/05/30 18:07:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
 2018/05/30 18:07:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
 2018/05/30 18:07:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:40:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:40:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:40:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:40:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:40:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:54 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:55 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:55 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:55 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:55 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:55 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:55 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:55 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:55 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:49:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:49:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:49:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:49:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:49:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:27 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:27 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 09:50:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 09:50:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 09:50:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:51:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:51:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:51:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:51:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:51:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:51:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:51:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:51:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:51:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:52:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:52:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:52:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:55 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:55 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 10:59:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 10:59:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 10:59:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 11:00:08 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:00:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:00:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:00:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:00:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 24234234234 LIMIT 1
+2018/05/31 11:00:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:00:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:00:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:00:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:00:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 11:02:09 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:02:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:02:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:02:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:02:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:07:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:07:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:07:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:07:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:07:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:07:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:07:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:07:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:07:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:07:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:10:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:10:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:10:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:10:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:10:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:10:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:10:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:10:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:10:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:10:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:10:49 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:10:49 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:10:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:10:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:10:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdasd@qq.com LIMIT 1
+2018/05/31 11:11:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:11:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:11:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:11:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:11:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdas LIMIT 1
+2018/05/31 11:11:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:11:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:11:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:11:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:11:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdas LIMIT 1
+2018/05/31 11:11:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:11:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:11:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:11:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:11:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdas LIMIT 1
+2018/05/31 11:15:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:15:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:15:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:15:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:15:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = {$user} LIMIT 1
+2018/05/31 11:15:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:15:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = {$user} LIMIT 1
+2018/05/31 11:15:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:15:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = {$user} LIMIT 1
+2018/05/31 11:15:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:15:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:15:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = {$user} LIMIT 1
+2018/05/31 11:19:30 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:19:30 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:19:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:19:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:19:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdas LIMIT 1
+2018/05/31 11:19:31 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:19:31 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:19:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:19:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:19:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = sdasdas LIMIT 1
+2018/05/31 11:19:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:19:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:19:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:19:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:19:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 11:19:54 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:19:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:19:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:19:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:19:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 1 LIMIT 1
+2018/05/31 11:21:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:21:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:21:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:21:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user =  \' awdasda@qq.com \'  LIMIT 1
+2018/05/31 11:22:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:22:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:22:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:22:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:22:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'awdasda@qq.com' LIMIT 1
+2018/05/31 11:22:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:22:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:22:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:22:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:22:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '111111' LIMIT 1
+2018/05/31 11:24:14 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:24:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:24:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:24:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:24:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '111111' LIMIT 1
+2018/05/31 11:24:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:24:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '111111' LIMIT 1
+2018/05/31 11:24:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:24:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:24:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '111111' LIMIT 1
+2018/05/31 11:24:34 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:24:34 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:24:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:24:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:24:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 11:24:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:24:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:24:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:24:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:24:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 11:40:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:40:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:40:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:40:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:40:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '1' LIMIT 1
+2018/05/31 11:40:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:40:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:40:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:40:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:40:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 11:57:09 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 11:57:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 11:57:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 11:57:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 11:57:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:11:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:11:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:11:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:11:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:11:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:43 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:12:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:12:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:13:35 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:13:35 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:13:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:13:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:13:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 12:13:51 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:13:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:13:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:13:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:13:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:26:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:26:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:26:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:26:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:26:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:29:43 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:29:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:29:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:29:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:29:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:37 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:37 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:30:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:30:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:30:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:50:32 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:50:32 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:50:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:50:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:50:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:50:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:50:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:50:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:50:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:50:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 12:50:51 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:50:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:50:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:50:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:50:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 12:54:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:54:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:54:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:54:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:54:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 12:54:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 12:54:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 12:54:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 12:54:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 12:54:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:00:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:00:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:00:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:00:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:00:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 13:00:52 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:00:52 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:00:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:00:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:00:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:01:11 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:01:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:01:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:01:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:01:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:01:35 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:01:35 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:01:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:01:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:01:35 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:07:36 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:07:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 13:08:09 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:08:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:08:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:08:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:08:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:08:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:08:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 13:08:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:08:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:08:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:08:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:08:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '546' LIMIT 1
+2018/05/31 13:19:27 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:19:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 13:19:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:19:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:19:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:19:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:19:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 13:33:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:33:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 13:44:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:44:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:44:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:44:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:44:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 13:44:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:44:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:44:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:44:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:44:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:48:33 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:48:33 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:48:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:48:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:48:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:48:47 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:48:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:48:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:48:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:48:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:48:53 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:48:53 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:48:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:48:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:48:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:48:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:48:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:48:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:48:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:48:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 13:49:14 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 13:49:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 13:49:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 13:49:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 13:49:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 14:00:11 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:00:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:00:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:00:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:00:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 14:04:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:04:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:04:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:04:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 14:04:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 14:04:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:04:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:04:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:04:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 14:04:47 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:04:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:04:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:04:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 14:04:51 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:04:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:04:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:04:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 14:04:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:04:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 14:46:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:46:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 14:53:53 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:53:53 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:53:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:53:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:53:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 14:53:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 14:53:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:53:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 14:53:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 14:53:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 14:53:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 14:53:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 15:09:12 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:09:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:09:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:09:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:09:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:11:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:11:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:11:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:11:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:11:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:11:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:11:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 15:22:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:22:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:22:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:22:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:22:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:22:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:22:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 15:23:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:23:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 15:23:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:23:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:23:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:23:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:23:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 15:46:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:46:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 15:58:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:58:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:58:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:58:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:58:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 15:58:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:58:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:58:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:58:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:58:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:58:17 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:58:17 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:58:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:58:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:58:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:58:27 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:58:27 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:58:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:58:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:58:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:59:16 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:59:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:59:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:59:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:59:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:59:33 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:59:33 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:59:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:59:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:59:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 15:59:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 15:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 15:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 15:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 15:59:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:02:10 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:02:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:02:10 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:02:10 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:02:10 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:02:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:02:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:10:54 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:10:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:10:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:10:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:10:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 16:10:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:10:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:10:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:10:59 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:10:59 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:10:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:10:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:13:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:13:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:13:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:13:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:13:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:13:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:13:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:13:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:13:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:13:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:17:14 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:17:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:17:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:17:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:17:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:17:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:17:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:17:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:17:24 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:17:24 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:17:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:17:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:17:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:17:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:17:49 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:17:49 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:17:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:17:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:17:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:05 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:05 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:20 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:20 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:20 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:20 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:25 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:25 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:18:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:18:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:18:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:18:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:18:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:07 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:08 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:08 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:16 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:19:16 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:16 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:19:16 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:19:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:19:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:20 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:20 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:21 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:21 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:43 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:43 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:43 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:43 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:49 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:49 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:51 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:19:51 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:19:51 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:19:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:01 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:01 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:02 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:02 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:16 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:16 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:17 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:17 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:17 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:17 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:19 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:19 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:27 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:27 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:37 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:20:59 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:20:59 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:20:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:20:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:20:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:21:12 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:21:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:27 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:27 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:28 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:28 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:31 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:31 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:31 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:31 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:32 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:32 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:32 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:32 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:37 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:39 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:39 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 16:21:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:21:50 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:21:50 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:21:50 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:21:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:21:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:22:50 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:50 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:22:53 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:22:53 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:22:53 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:22:53 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:22:53 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:22:54 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:22:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:22:54 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:22:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:22:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:22:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:22:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:22:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:22:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:22:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = '' LIMIT 1
+2018/05/31 16:23:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:23:06 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:23:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:23:32 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:32 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:23:41 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:41 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:23:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:23:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:23:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:23:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:23:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:25:20 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:20 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:25:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:25:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:25:47 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 16:25:47 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:25:47 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/05/31 16:25:47 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `stats`=:yp1, `user`=:yp2, `pass`=:yp3 WHERE `b_user`.`user_id`=1
+2018/05/31 16:25:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 16:25:56 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:56 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:25:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:25:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:25:57 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:57 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:25:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:25:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:25:58 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:25:58 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:25:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:25:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:25:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:00 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:00 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:22 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:22 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:22 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:23 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:23 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:24 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:24 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 16:26:26 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 16:26:26 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 16:26:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 16:26:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 16:26:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user_id = '1' LIMIT 1
+2018/05/31 17:31:44 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:31:44 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:31:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:34:38 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:34:38 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:34:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:34:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:34:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:34:40 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:34:40 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:34:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:34:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:34:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:34:45 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:34:45 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:34:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:34:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:34:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:35:42 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:35:42 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:35:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:35:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:35:42 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:35:46 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:35:46 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:35:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:35:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:35:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:35:48 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:35:48 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:35:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:35:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:35:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:50:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 17:50:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 17:50:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 17:50:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 17:52:54 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:52:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:06 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:07 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:08 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:09 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:10 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:11 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:12 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:13 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:13 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:13 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:13 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:13 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:14 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 17:53:16 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 17:53:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 18:07:03 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 18:07:03 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 18:07:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 18:07:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 18:07:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 18:31:04 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 18:31:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 18:31:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 18:31:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 18:31:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 18:31:04 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 18:31:04 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/05/31 18:31:15 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/05/31 18:31:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 18:31:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/05/31 18:31:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/05/31 18:31:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE user = 'asdasda@qq.com' LIMIT 1
+2018/05/31 18:31:15 [trace] [system.db.CDbConnection] Opening DB connection
+2018/05/31 18:31:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user

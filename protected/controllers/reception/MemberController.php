@@ -8,11 +8,39 @@ class MemberController extends Controller
 
     public function actionLogin()
     {
+// 保存一天
 
+
+
+//        session_start();
+//
+////2、清空session信息
+//        $_SESSION = array();
+//
+////3、清楚客户端sessionid
+//        if(isset($_COOKIE[session_name()]))
+//        {
+//            setCookie(session_name(),'');
+//        }
+////4、彻底销毁session
+//        session_destroy();
+//        P($_COOKIE[session_name()]);
+
+       // H($_SESSION["admin"]);
 //        $sql = 'SELECT * FROM b_user';
 //        $data = Yii::app()->db->createCommand($sql)->queryAll();
 //
 //        $criteria = new CDbCriteria();
+
+//        $qq = CommFun::userStates();
+
+        $confun = CommFun::userIsLogin();
+
+        if(empty($confun)){
+            P('还没登录');
+        }
+
+
 
 
 
@@ -31,13 +59,16 @@ class MemberController extends Controller
 //        } else {
 //            echo '失败';
 //        }
+
         $data['user'] =$user;
         $data['pass'] =$pass;
-        $userStem = BUser::model()->find('user = '. $user);
+        $userStem = BUser::model()->find('user = '."'".$user."'");
         if(!empty($userStem)){
             if($userStem->pass == $pass){
-                $_SESSION['stats']='200';
-                P($_SESSION['stats']);
+                $userArr = array($user,$userStem->user_id);
+                session_start();
+                $_SESSION['UserStats']=$userArr;
+                $this->redirect(Yii::app()->createUrl('reception/home/index'));
             }else{
                 $data['stats']=400;
                 $this->render('login',array('data'=>$data));

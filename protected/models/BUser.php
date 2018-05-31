@@ -4,7 +4,8 @@
  * This is the model class for table "b_user".
  *
  * The followings are the available columns in table 'b_user':
- * @property integer $id
+ * @property integer $user_id
+ * @property integer $stats
  * @property string $user
  * @property string $pass
  */

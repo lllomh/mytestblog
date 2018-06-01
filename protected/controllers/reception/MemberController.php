@@ -33,6 +33,9 @@ class MemberController extends Controller
 //        $criteria = new CDbCriteria();
 
 //        $qq = CommFun::userStates();
+//          $uu =CommFun::getUserId();
+//        P($uu);
+
 
         $confun = CommFun::userIsLogin();
 
@@ -62,13 +65,17 @@ class MemberController extends Controller
 
         $data['user'] =$user;
         $data['pass'] =$pass;
-        $userStem = BUser::model()->find('user = '."'".$user."'");
+        $userStem = BUser::model()->find('username = '."'".$user."'");
         if(!empty($userStem)){
-            if($userStem->pass == $pass){
-                $userArr = array($user,$userStem->user_id);
-                session_start();
-                $_SESSION['UserStats']=$userArr;
-                $this->redirect(Yii::app()->createUrl('reception/home/index'));
+            $passs = sha1(md5($pass.Yii::app()->params['userpassKey']));                //密码加密
+            if($userStem->password == $passs){
+                 $token = sha1(md5($userStem->user_id.Yii::app()->params['tokenKey'].time()));//加密 token
+                 $arrUser = array($userStem->user_id,$token);
+                 session_start();                                                                 //初始化 session
+                 $_SESSION['UserStats']= $arrUser;
+                 $userStem -> token = $token;
+                 $userStem->save();
+                 $this->redirect(Yii::app()->createUrl('reception/home/index'));
             }else{
                 $data['stats']=400;
                 $this->render('login',array('data'=>$data));

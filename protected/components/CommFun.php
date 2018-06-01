@@ -8,17 +8,35 @@
 
 class CommFun{
 
+    //判断是否登录状态
     public static function userIsLogin(){
         session_start();
-        if(!empty($_SESSION['UserStats'])){
-                return $_SESSION['UserStats'];
+        $user = empty($_SESSION['UserStats']) ? '' : $_SESSION['UserStats'];
+
+        if(!empty($user)){
+            $userdb = BUser::model()->find('user_id = '. "'".$user[0]."'");
+            if($userdb->token == $user[1]){
+                return $user;
+            }else{
+
+                return '';
+            }
+
         }else{
             return '';
         }
 
+
+
     }
 
-
+    //获取用户id
+    public static function getUserId(){
+        $userInfo = self::userIsLogin();
+        if($userInfo)
+            return $userInfo[0];
+        return false;
+    }
 
 }
 

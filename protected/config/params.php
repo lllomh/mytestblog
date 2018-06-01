@@ -16,4 +16,8 @@ return array(
 	'commentNeedApproval'=>true,
 	// the copyright information displayed in the footer section
 	'copyrightInfo'=>'Copyright &copy; 2009 by My Company.',
+     'index_url'=>'http://www.testyii.com/',
+     'tokenKey'=>'adfhas34589_)*_&YHUgasfafdsfussf',
+     'userpassKey'=>'sgfs80*(():"hjHGj'
+
 );

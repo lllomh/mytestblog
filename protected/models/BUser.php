@@ -6,8 +6,9 @@
  * The followings are the available columns in table 'b_user':
  * @property integer $user_id
  * @property integer $stats
- * @property string $user
- * @property string $pass
+ * @property string $username
+ * @property string $password
+ * @property string $token
  */
 class BUser extends CActiveRecord
 {
@@ -27,7 +28,7 @@ class BUser extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('user, pass', 'length', 'max'=>255),
+			array('username, password', 'length', 'max'=>255),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
 			array('id, user, pass', 'safe', 'on'=>'search'),
@@ -51,9 +52,9 @@ class BUser extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id' => 'ID',
-			'user' => 'User',
-			'pass' => 'Pass',
+			'user_id' => 'user_id',
+			'username' => 'username',
+			'password' => 'password',
 		);
 	}
 
@@ -75,9 +76,9 @@ class BUser extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('id',$this->id);
-		$criteria->compare('user',$this->user,true);
-		$criteria->compare('pass',$this->pass,true);
+		$criteria->compare('user_id',$this->user_id);
+		$criteria->compare('username',$this->username,true);
+		$criteria->compare('password',$this->password,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

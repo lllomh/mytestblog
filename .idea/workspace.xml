@@ -14,8 +14,8 @@
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/controllers/reception/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="92">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="62" />
               <folding>
                 <marker date="1527672817594" expanded="true" signature="202:216" ph="SELECT * FRO... gzc_news_system" />
                 <marker date="1527672817594" expanded="true" signature="202:222" ph="SELECT * FRO... b_user" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="params.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/params.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/config/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state relative-caret-position="744">
+              <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -44,35 +54,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MemberController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/controllers/reception/MemberController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            <state relative-caret-position="383">
+              <caret line="70" column="46" lean-forward="false" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
               <folding>
-                <marker date="1527762999146" expanded="true" signature="511:525" ph="SELECT * FRO... gzc_news_system" />
-                <marker date="1527762999146" expanded="true" signature="511:531" ph="SELECT * FRO... b_user" />
+                <marker date="1527831133041" expanded="true" signature="511:525" ph="SELECT * FRO... gzc_news_system" />
+                <marker date="1527831133041" expanded="true" signature="511:531" ph="SELECT * FRO... b_user" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommFun.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/components/CommFun.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -80,18 +70,30 @@
       <file leaf-file-name="BUser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/models/BUser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="552">
+              <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/config/database.php">
+      <file leaf-file-name="CommFun.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/components/CommFun.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="437">
+              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/runtime/application.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="8982" column="109" lean-forward="false" selection-start-line="8982" selection-start-column="109" selection-end-line="8982" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -111,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -128,9 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>TagTest</find>
-      <find>{{tag}}</find>
-      <find>tag</find>
       <find>TagCloud</find>
       <find>Tag</find>
       <find>RecentComments</find>
@@ -157,6 +156,10 @@
       <find>CCaptchaAction</find>
       <find>captcha</find>
       <find>CCaptcha</find>
+      <find>index_url</find>
+      <find>),</find>
+      <find>params</find>
+      <find>user</find>
     </findStrings>
     <dirStrings>
       <dir>G:\mywork\glitzcloud\trunk\yiitext\demos\blog\protected</dir>
@@ -165,6 +168,7 @@
       <dir>G:\mywork\glitzcloud\trunk\yiitext\demos\blog\assets\admin\js\plugins\slimscroll</dir>
       <dir>G:\mywork\glitzcloud\trunk\yiitext\demos\blog</dir>
       <dir>G:\mywork\glitzcloud\trunk\yiitext\demos\blog\fornt</dir>
+      <dir>G:\mypront\timprot\mytestblog</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -205,10 +209,11 @@
         <option value="$PROJECT_DIR$/protected/views/reception/member/login.php" />
         <option value="$PROJECT_DIR$/protected/config/database.php" />
         <option value="$PROJECT_DIR$/protected/controllers/reception/HomeController.php" />
+        <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/protected/models/BUser.php" />
-        <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/protected/components/CommFun.php" />
+        <option value="$PROJECT_DIR$/protected/config/params.php" />
         <option value="$PROJECT_DIR$/protected/controllers/reception/MemberController.php" />
       </list>
     </option>
@@ -220,7 +225,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -258,6 +263,18 @@
               <item name="mytestblog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="protected" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestblog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="protected" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestblog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="protected" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="runtime" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mytestblog" type="b2602c69:ProjectViewProjectNode" />
@@ -331,15 +348,15 @@
       <workItem from="1526520920541" duration="21895000" />
       <workItem from="1526616766930" duration="15217000" />
       <workItem from="1527574918513" duration="37106000" />
-      <workItem from="1527736033350" duration="25949000" />
+      <workItem from="1527736033350" duration="38948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100167000" />
+    <option name="totallyTimeSpent" value="113166000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14498934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -347,10 +364,11 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8251366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -358,7 +376,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8251366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -373,20 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected/controllers/CommentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/console.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/BaseController.php" />
     <entry file="file://$PROJECT_DIR$/assets/admin/css/demo/webuploader-demo.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -507,6 +510,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <marker date="1526621812567" expanded="true" signature="224:253" ph="SELECT * FRO... gzc_news_system" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,6 +527,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -528,6 +535,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -599,6 +607,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,6 +637,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,6 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -691,33 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/reception/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <marker date="1527672817594" expanded="true" signature="202:216" ph="SELECT * FRO... gzc_news_system" />
-            <marker date="1527672817594" expanded="true" signature="202:222" ph="SELECT * FRO... b_user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/BUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/loginStem.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
@@ -729,27 +713,72 @@
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/reception/MemberController.php">
+    <entry file="file://$PROJECT_DIR$/protected/controllers/reception/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        <state relative-caret-position="92">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="62" />
           <folding>
-            <marker date="1527762999146" expanded="true" signature="511:525" ph="SELECT * FRO... gzc_news_system" />
-            <marker date="1527762999146" expanded="true" signature="511:531" ph="SELECT * FRO... b_user" />
+            <marker date="1527672817594" expanded="true" signature="202:216" ph="SELECT * FRO... gzc_news_system" />
+            <marker date="1527672817594" expanded="true" signature="202:222" ph="SELECT * FRO... b_user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/runtime/application.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="8982" column="109" lean-forward="false" selection-start-line="8982" selection-start-column="109" selection-end-line="8982" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/BUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/components/CommFun.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="437">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/reception/MemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="70" column="46" lean-forward="false" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
+          <folding>
+            <marker date="1527831133041" expanded="true" signature="511:525" ph="SELECT * FRO... gzc_news_system" />
+            <marker date="1527831133041" expanded="true" signature="511:531" ph="SELECT * FRO... b_user" />
+          </folding>
         </state>
       </provider>
     </entry>

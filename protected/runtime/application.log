@@ -9691,3 +9691,114 @@ Stack trace:
 #8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
 #9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
 REQUEST_URI=/index.php/reception/home/index
+2018/06/02 19:59:12 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 19:59:20 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 20:00:21 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 20:00:39 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 20:00:56 [error] [php] Undefined index: stst (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 20:00:57 [error] [php] Undefined index: stst (/Users/gonghaibo/www/mytestblog/protected/views/reception/member/login.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(872): MemberController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(785): MemberController->renderPartial()
+#2 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php(98): MemberController->render()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): MemberController->actionDo()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#8 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 20:57:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.php/reception/member/login/data[user]/asdasda@qq.com/data[pass]/22/data[stats]/305".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('index.php/recep...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/index.php/reception/member/login/data%5Buser%5D/asdasda%40qq.com/data%5Bpass%5D/22/data%5Bstats%5D/305
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 20:59:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.php/reception/member/login/data[user]/asdasda@qq.com/data[pass]/22/data[stats]/305".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('index.php/recep...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/index.php/reception/member/login/data%5Buser%5D/asdasda%40qq.com/data%5Bpass%5D/22/data%5Bstats%5D/305
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 20:59:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.php/reception/member/login/data[user]/asdasda@qq.com/data[pass]/22/data[stats]/305".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('index.php/recep...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/index.php/reception/member/login/data%5Buser%5D/asdasda%40qq.com/data%5Bpass%5D/22/data%5Bstats%5D/305
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---

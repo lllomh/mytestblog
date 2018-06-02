@@ -1,9 +1,6 @@
 <div class='login'>
     <div class='login_title'>
-        <span>324wewqe</span>
-        <?php
-         H($data);
-        ?>
+        <span><?=Yii::app()->params['title']?></span>
     </div>
     <div class='login_fields'>
         <form method="post" name="form" action="<?=Yii::app()->createUrl('reception/member/do')?>">
@@ -53,7 +50,6 @@
             <div></div>
         </div>
     </div>
-    <p>认证中...</p>
 </div>
 <div class="OverWindows"></div>
 
@@ -67,6 +63,20 @@
 <script type="text/javascript" src="/assets/reception/js/Treatment.js"></script>
 <script type="text/javascript" src="/assets/reception/js/jquery.mockjax.js"></script>
 <script type="text/javascript">
+    var stats = <?=empty($data['stats'])?'0':$data['stats']?>;
+    if(stats==305){
+        layui.use('layer', function () {
+            ErroAlert('验证码错误');
+        });
+    }else if(stats==400){
+        layui.use('layer', function () {
+            ErroAlert('密码错误');
+        });
+    }else if(stats==304){
+        layui.use('layer', function () {
+            ErroAlert('用户名不存在');
+        });
+    }
 
     $(document).keypress(function (e) {
         // 回车键事件

@@ -8,6 +8,10 @@ $db_config  = array(
 	'username' => 'root',
 	'password' => 'root',
 	'charset' => 'utf8',
+    //////////////////////////////////////////////////////增加
+    'enableProfiling'=>YII_DEBUG,
+    'enableParamLogging'=>YII_DEBUG,
+/////////////////////////////////////////////////////
 );
 
 return $db_config;

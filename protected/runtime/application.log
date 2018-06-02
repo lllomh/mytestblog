@@ -9370,3 +9370,324 @@ REQUEST_URI=/index.php/admin/home/index
 2018/06/01 17:22:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
 2018/06/01 17:22:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
 2018/06/01 17:22:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE username = '534' LIMIT 1
+2018/06/02 01:07:18 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/06/02 01:07:18 [trace] [system.db.CDbConnection] Opening DB connection
+2018/06/02 01:07:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/06/02 01:07:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/06/02 01:07:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE username = '23' LIMIT 1
+2018/06/02 01:07:37 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/06/02 01:07:37 [trace] [system.db.CDbConnection] Opening DB connection
+2018/06/02 01:07:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/06/02 01:07:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/06/02 01:07:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE username = '23' LIMIT 1
+2018/06/02 01:07:48 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/06/02 01:07:48 [trace] [system.db.CDbConnection] Opening DB connection
+2018/06/02 01:07:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/06/02 01:07:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/06/02 01:07:48 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE username = '12323' LIMIT 1
+2018/06/02 01:08:47 [trace] [system.db.ar.CActiveRecord] BUser.find()
+2018/06/02 01:08:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/06/02 01:08:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `b_user`
+2018/06/02 01:08:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `b_user`
+2018/06/02 01:08:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `b_user` `t` WHERE username = 'asdasda@qq.com' LIMIT 1
+2018/06/02 01:08:47 [trace] [system.db.ar.CActiveRecord] BUser.update()
+2018/06/02 01:08:47 [trace] [system.db.ar.CActiveRecord] BUser.updateByPk()
+2018/06/02 01:08:47 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `b_user` SET `user_id`=:yp0, `token`=:yp1, `username`=:yp2, `password`=:yp3 WHERE `b_user`.`user_id`=1
+2018/06/02 01:08:47 [trace] [system.db.CDbConnection] Opening DB connection
+2018/06/02 01:08:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM b_user
+2018/06/02 01:43:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/index".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('home/index')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/home/index
+HTTP_REFERER=http://www.test.com/index.php/reception/home/index
+---
+2018/06/02 09:47:06 [error] [exception.CException] exception 'CException' with message 'Property "CCaptchaAction.background" is not defined.' in /Users/gonghaibo/www/mytestblog/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/YiiBase.php(220): CComponent->__set('background', 'red')
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(443): YiiBase::createComponent(Array, Object(MemberController), 'captcha')
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(419): CController->createActionFromMap(Array, 'captcha', 'captcha')
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(259): CController->createAction('captcha')
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): CController->run('captcha')
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#6 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#7 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php/reception/member/captcha/v/5b124b7a5b073
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 09:47:08 [error] [exception.CException] exception 'CException' with message 'Property "CCaptchaAction.background" is not defined.' in /Users/gonghaibo/www/mytestblog/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/YiiBase.php(220): CComponent->__set('background', 'red')
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(443): YiiBase::createComponent(Array, Object(MemberController), 'captcha')
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(419): CController->createActionFromMap(Array, 'captcha', 'captcha')
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(259): CController->createAction('captcha')
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): CController->run('captcha')
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#6 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#7 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php/reception/member/captcha/refresh/1?_=1527925626465
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 09:47:08 [error] [exception.CException] exception 'CException' with message 'Property "CCaptchaAction.background" is not defined.' in /Users/gonghaibo/www/mytestblog/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/YiiBase.php(220): CComponent->__set('background', 'red')
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(443): YiiBase::createComponent(Array, Object(MemberController), 'captcha')
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(419): CController->createActionFromMap(Array, 'captcha', 'captcha')
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(259): CController->createAction('captcha')
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): CController->run('captcha')
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#6 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#7 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php/reception/member/captcha/refresh/1?_=1527925626466
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 09:47:09 [error] [exception.CException] exception 'CException' with message 'Property "CCaptchaAction.background" is not defined.' in /Users/gonghaibo/www/mytestblog/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/YiiBase.php(220): CComponent->__set('background', 'red')
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(443): YiiBase::createComponent(Array, Object(MemberController), 'captcha')
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(419): CController->createActionFromMap(Array, 'captcha', 'captcha')
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(259): CController->createAction('captcha')
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): CController->run('captcha')
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#6 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#7 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php/reception/member/captcha/refresh/1?_=1527925626467
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 09:47:09 [error] [exception.CException] exception 'CException' with message 'Property "CCaptchaAction.background" is not defined.' in /Users/gonghaibo/www/mytestblog/framework/base/CComponent.php:173
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/YiiBase.php(220): CComponent->__set('background', 'red')
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(443): YiiBase::createComponent(Array, Object(MemberController), 'captcha')
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(419): CController->createActionFromMap(Array, 'captcha', 'captcha')
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(259): CController->createAction('captcha')
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): CController->run('captcha')
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#6 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#7 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#8 {main}
+REQUEST_URI=/index.php/reception/member/captcha/v/5b124b7d47b5c
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 10:44:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reception/mamber/do".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/mambe...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/reception/mamber/do
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 10:45:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reception/mamber/do".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/mambe...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/reception/mamber/do
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 10:45:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reception/mamber/do".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('reception/mambe...')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/reception/mamber/do
+HTTP_REFERER=http://www.test.com/index.php/reception/member/login
+---
+2018/06/02 12:02:55 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:03:16 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:03:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/index".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('home/index')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/home/index
+HTTP_REFERER=http://www.test.com/index.php/reception/home/index
+---
+2018/06/02 12:05:31 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:10:25 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:71)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:13:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "home/index".' in /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController('home/index')
+#1 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Users/gonghaibo/www/mytestblog/index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/home/index
+HTTP_REFERER=http://www.test.com/index.php/reception/home/index
+---
+2018/06/02 12:14:42 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:15:44 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:15:45 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:15:57 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:16:40 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:16:41 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:16:49 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 12:21:26 [error] [php] A session had already been started - ignoring session_start() (/Users/gonghaibo/www/mytestblog/protected/controllers/reception/MemberController.php:74)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): MemberController->runAction()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): MemberController->runActionWithFilters()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): MemberController->run()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#6 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/do
+2018/06/02 13:05:02 [error] [php] Undefined offset: 2 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:37)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/02 13:05:03 [error] [php] Undefined offset: 2 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:37)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/02 13:05:23 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:37)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/02 13:05:24 [error] [php] Array to string conversion (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:37)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index

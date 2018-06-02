@@ -31,6 +31,15 @@
 	<div id="mainmenu">
         <a href="<?=Yii::app()->createUrl('reception/home/index')?>">test</a>
         <a href="<?=Yii::app()->createUrl('home/index')?>">test2</a>
+   		<?php
+		$confun = CommFun::userIsLogin();
+		if(!empty($confun)) :?>
+		<a href="<?=Yii::app()->createUrl('reception/home/index')?>">hello <?=CommFun::getUserName()?></a>
+		<a href="<?=Yii::app()->createUrl('reception/member/out')?>">退出</a>
+		<?php else:;?>
+			<a href="<?=Yii::app()->createUrl('reception/member/login')?>">登录</a>
+		<?php endif;?>
+
 	</div><!-- mainmenu -->
 
 	<?php $this->widget('zii.widgets.CBreadcrumbs', array(

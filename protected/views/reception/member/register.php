@@ -4,37 +4,46 @@
     </div>
     <div class='login_fields'>
         <form method="post" name="form" action="<?=Yii::app()->createUrl('reception/member/do')?>">
-        <div class='login_fields__user'>
-            <div class='icon'>
-                <img alt="" src='/images/user_icon_copy.png'>
+            <div class='login_fields__user'>
+                <div class='icon'>
+                    <img alt="" src='/images/user_icon_copy.png'>
+                </div>
+                <input name="user" placeholder='昵称或者邮箱或者手机' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
+                <div class='validation'>
+                    <img alt="" src='/images/tick.png'>
+                </div>
             </div>
-            <input name="user" placeholder='昵称或者邮箱或者手机' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
-            <div class='validation'>
-                <img alt="" src='/images/tick.png'>
+            <div class='login_fields__password'>
+                <div class='icon'>
+                    <img alt="" src='/images/lock_icon_copy.png'>
+                </div>
+                <input name="pass"  placeholder='密码' value="<?=$data['pass']?>" maxlength="16" type='password' autocomplete="off">
+                <div class='validation'>
+                    <img alt="" src='/images/tick.png'>
+                </div>
             </div>
-        </div>
-        <div class='login_fields__password'>
-            <div class='icon'>
-                <img alt="" src='/images/lock_icon_copy.png'>
+            <div class='login_fields__password'>
+                <div class='icon'>
+                    <img alt="" src='/images/lock_icon_copy.png'>
+                </div>
+                <input name="pass"  placeholder='密码' value="<?=$data['pass']?>" maxlength="16" type='password' autocomplete="off">
+                <div class='validation'>
+                    <img alt="" src='/images/tick.png'>
+                </div>
             </div>
-            <input name="pass"  placeholder='密码' value="<?=$data['pass']?>" maxlength="16" type='password' autocomplete="off">
-            <div class='validation'>
-                <img alt="" src='/images/tick.png'>
+            <div class='login_fields__password'>
+                <div class='icon'>
+                    <img alt="" src='/images/key.png'>
+                </div>
+                <input name="code" placeholder='验证码' maxlength="4" type='text'  autocomplete="off">
+                <div class='validation' style="opacity: 1;top: 0">
+                    <?php $this->widget('CCaptcha',array('showRefreshButton'=>false,'clickableImage'=>true,'imageOptions'=>array('alt'=>'点击换图','title'=>'点击换图','style'=>'curror:pointer'))); ?>
+                </div>
             </div>
-        </div>
-        <div class='login_fields__password'>
-            <div class='icon'>
-                <img alt="" src='/images/key.png'>
+            <div class='login_fields__submit'>
+                <input class="loggin" type='button' value='登录'>
+                <input class="reg" type='button' value='注册'>
             </div>
-            <input name="code" placeholder='验证码' maxlength="4" type='text'  autocomplete="off">
-            <div class='validation' style="opacity: 1;top: 0">
-                <?php $this->widget('CCaptcha',array('showRefreshButton'=>false,'clickableImage'=>true,'imageOptions'=>array('alt'=>'点击换图','title'=>'点击换图','style'=>'curror:pointer'))); ?>
-            </div>
-        </div>
-        <div class='login_fields__submit'>
-            <input class="loggin" type='button' value='登录'>
-            <input class="reg" type='button' value='注册'>
-        </div>
         </form>
     </div>
     <div class='success'>
@@ -82,11 +91,11 @@
     $(document).keypress(function (e) {
         // 回车键事件
         if (e.which == 13) {
-            $('.loggin').click();
+            $('.reg').click();
         }
     });
-    $(".reg").click(function () {
-        window.location.href='<?=Yii::app()->createUrl('reception/member/register')?>';
+    $(".loggin").click(function () {
+        window.location.href='<?=Yii::app()->createUrl('reception/member/login')?>';
     });
     //粒子背景特效
     $('body').particleground({

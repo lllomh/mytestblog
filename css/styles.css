@@ -243,3 +243,13 @@ body .login_fields__submit input:hover {
 .brand img {
   width: 30px;
 }
+.reg{
+  position: absolute!important;
+  right: 0!important;
+  display: block;
+}
+.loggin{
+  position: absolute!important;
+  display: block;
+  left: 0!important;
+}

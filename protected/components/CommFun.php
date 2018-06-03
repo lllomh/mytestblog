@@ -12,7 +12,6 @@ class CommFun{
     public static function userIsLogin(){
         //if (!session_id()){session_start(); }
         $user = empty(Yii::app()->session['UserStats']) ? '' : Yii::app()->session['UserStats'];
-
         if(!empty($user)){
             $userdb = BUser::model()->find('user_id = '. "'".$user[0]."'");
             if($userdb->token == $user[1]){

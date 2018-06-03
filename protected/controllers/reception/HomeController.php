@@ -11,14 +11,14 @@ class HomeController extends ReceptionController
     public function actionIndex()
     {
 
-        $sql = 'SELECT * FROM b_user';
-        $data = Yii::app()->db->createCommand($sql)->queryAll();
+//        $sql = 'SELECT * FROM b_user';
+//        $data = Yii::app()->db->createCommand($sql)->queryAll();
+//
+//        $criteria = new CDbCriteria();
 
-        $criteria = new CDbCriteria();
 
 
-
-        $this->render('index',array('data'=>$data));
+        $this->render('index');
     }
 
     public function actionsave(){

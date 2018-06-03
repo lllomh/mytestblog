@@ -8,44 +8,12 @@ class MemberController extends Controller
 
     public function actionLogin()
     {
-// 保存一天
-
-
-
-//        session_start();
-//
-////2、清空session信息
-//        $_SESSION = array();
-//
-////3、清楚客户端sessionid
-//        if(isset($_COOKIE[session_name()]))
-//        {
-//            setCookie(session_name(),'');
-//        }
-////4、彻底销毁session
-//        session_destroy();
-//        P($_COOKIE[session_name()]);
-
-       // H($_SESSION["admin"]);
-//        $sql = 'SELECT * FROM b_user';
-//        $data = Yii::app()->db->createCommand($sql)->queryAll();
-//
-//        $criteria = new CDbCriteria();
-
-//        $qq = CommFun::userStates();
-//          $uu =CommFun::getUserId();
-//        P($uu);
-
 
         $confun = CommFun::userIsLogin();
 
         if(!empty($confun)){
             $this->redirect(Yii::app()->createUrl('reception/home/index'));
         }
-
-
-
-
 
         $this->render('login');
     }
@@ -60,7 +28,6 @@ class MemberController extends Controller
             $user =Yii::app()->request->getParam('user');
             $pass =Yii::app()->request->getParam('pass');
             $verify =Yii::app()->request->getParam('code');
-
 
 
             if ($this->createAction('captcha')->validate($verify, false)) {
@@ -80,7 +47,7 @@ class MemberController extends Controller
                         $data['user'] =$user;
                         $data['pass'] =$pass;
                         $data['stats']=400;
-                        $this->render('login',array('data'=>$data));
+                        $this->redirect(Yii::app()->createUrl('reception/member/login'));
                     }
 
 
@@ -88,14 +55,14 @@ class MemberController extends Controller
                     $data['user'] =$user;
                     $data['pass'] =$pass;
                     $data['stats']=304;
-                    $this->render('login',array('data'=>$data));
+                    $this->redirect(Yii::app()->createUrl('reception/member/login'));
                 }
 
             } else {
                 $data['user'] =$user;
                 $data['pass'] =$pass;
                 $data['stats']=305;
-                $this->render('login',array('data'=>$data));
+                $this->redirect(Yii::app()->createUrl('reception/member/login'));
             }
         }else{
             $this->redirect(Yii::app()->createUrl('reception/home/index'));
@@ -115,6 +82,22 @@ class MemberController extends Controller
         $this->redirect(Yii::app()->createUrl('reception/home/index'));
 
     }
+
+
+
+    public function actionRegister()
+    {
+
+        $confun = CommFun::userIsLogin();
+
+        if(!empty($confun)){
+            $this->redirect(Yii::app()->createUrl('reception/home/index'));
+        }
+
+        $this->render('register');
+    }
+
+
 
 
     public function actions()

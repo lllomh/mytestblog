@@ -30,6 +30,7 @@ class MemberController extends Controller
             $verify =Yii::app()->request->getParam('code');
 
 
+
             if ($this->createAction('captcha')->validate($verify, false)) {
 
                 $userStem = BUser::model()->find('username = '."'".$user."'");
@@ -47,7 +48,7 @@ class MemberController extends Controller
                         $data['user'] =$user;
                         $data['pass'] =$pass;
                         $data['stats']=400;
-                        $this->redirect(Yii::app()->createUrl('reception/member/login'));
+                        $this->render('login',array('data'=>$data));
                     }
 
 
@@ -55,14 +56,14 @@ class MemberController extends Controller
                     $data['user'] =$user;
                     $data['pass'] =$pass;
                     $data['stats']=304;
-                    $this->redirect(Yii::app()->createUrl('reception/member/login'));
+                    $this->render('login',array('data'=>$data));
                 }
 
             } else {
                 $data['user'] =$user;
                 $data['pass'] =$pass;
                 $data['stats']=305;
-                $this->redirect(Yii::app()->createUrl('reception/member/login'));
+                $this->render('login',array('data'=>$data));
             }
         }else{
             $this->redirect(Yii::app()->createUrl('reception/home/index'));

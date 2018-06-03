@@ -119,7 +119,7 @@
     });
     layui.use('layer', function () {
         //非空验证
-        $('input[type="button"]').click(function () {
+        $('.loggin').click(function () {
             var login = $('input[name="login"]').val();
             var pwd = $('input[name="pwd"]').val();
             var code = $('input[name="code"]').val();

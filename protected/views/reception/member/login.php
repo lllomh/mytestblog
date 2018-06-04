@@ -6,25 +6,25 @@
         <form method="post" name="form" action="<?=Yii::app()->createUrl('reception/member/do')?>">
         <div class='login_fields__user'>
             <div class='icon'>
-                <img alt="" src='/images/user_icon_copy.png'>
+                <img alt="" src='/images/loginRegStem/user_icon_copy.png'>
             </div>
             <input name="user" placeholder='昵称或者邮箱或者手机' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
             <div class='validation'>
-                <img alt="" src='/images/tick.png'>
+                <img alt="" src='/images/loginRegStem/tick.png'>
             </div>
         </div>
         <div class='login_fields__password'>
             <div class='icon'>
-                <img alt="" src='/images/lock_icon_copy.png'>
+                <img alt="" src='/images/loginRegStem/lock_icon_copy.png'>
             </div>
             <input name="pass"  placeholder='密码' value="<?=$data['pass']?>" maxlength="16" type='password' autocomplete="off">
             <div class='validation'>
-                <img alt="" src='/images/tick.png'>
+                <img alt="" src='/images/loginRegStem/tick.png'>
             </div>
         </div>
         <div class='login_fields__password'>
             <div class='icon'>
-                <img alt="" src='/images/key.png'>
+                <img alt="" src='/images/loginRegStem/key.png'>
             </div>
             <input name="code" placeholder='验证码' maxlength="4" type='text'  autocomplete="off">
             <div class='validation' style="opacity: 1;top: 0">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class='login_fields__submit'>
-            <input class="loggin" type='button' value='登录'>
+            <input style="color: white;background: #4FA1D9;" class="loggin" type='button' value='登录'>
             <input class="reg" type='button' value='注册'>
         </div>
         </form>
@@ -120,8 +120,8 @@
     layui.use('layer', function () {
         //非空验证
         $('.loggin').click(function () {
-            var login = $('input[name="login"]').val();
-            var pwd = $('input[name="pwd"]').val();
+            var login = $('input[name="user"]').val();
+            var pwd = $('input[name="pass"]').val();
             var code = $('input[name="code"]').val();
             if (login == '') {
                 ErroAlert('请输入您的账号');

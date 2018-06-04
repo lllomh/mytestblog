@@ -21,6 +21,26 @@ class MemberController extends Controller
     public function actionDo(){
         //Yii::import('application.models.BUser');
 
+
+        //邮件发送
+/*        $mail = Yii::App()->mail;
+        $mail->IsSMTP();
+        $mail->AddAddress('897963688@qq.com' , '半条虫');
+                $mail->Subject = @"密码修改通知"; //邮件标题
+                $mail->Body = @"您的密码已经修改"; //邮件内容
+                if(!$mail->Send())
+                {
+                    echo $mail->ErrorInfo;
+                echo 'n';
+//                 return false;
+                }else{
+                    echo 'y';
+                // return true;
+
+                }
+        exit();*/
+
+
         $confun = CommFun::userIsLogin();
 
         if(empty($confun)){
@@ -90,12 +110,52 @@ class MemberController extends Controller
     {
 
         $confun = CommFun::userIsLogin();
-
         if(!empty($confun)){
             $this->redirect(Yii::app()->createUrl('reception/home/index'));
         }
 
         $this->render('register');
+    }
+
+    public function actionReg(){
+        $confun = CommFun::userIsLogin();
+        if(empty($confun)){
+
+            $user =Yii::app()->request->getParam('user');
+            $pass1 =Yii::app()->request->getParam('pass1');
+            //$pass2 =Yii::app()->request->getParam('pass2');
+            $email =Yii::app()->request->getParam('email');
+            $verify =Yii::app()->request->getParam('code');
+
+
+            if ($this->createAction('captcha')->validate($verify, false)) {
+
+                 $pass1 = sha1(md5($pass1 . Yii::app()->params['userpassKey']));
+//                $pass2 = sha1(md5($pass2.Yii::app()->params['userpassKey']));
+
+                Yii::app()->db->createCommand()->insert('b_user',//表增加新数据
+
+                    array(
+                        'username' => $user,
+                        'password' => $pass1,
+                         'email'=> $email
+                    )
+                );
+
+                $data['stats']=200;
+                $this->render('register',array('data'=>$data));
+            }else{
+                $this->render('register');
+                echo'<script>      layui.use(\'layer\', function () {
+             ErroAlert(\'验证码错误\');
+         });
+</script>';
+            }
+
+        }else{
+            $this->redirect(Yii::app()->createUrl('reception/home/index'));
+        }
+
     }
 
 

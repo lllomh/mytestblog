@@ -10024,3 +10024,90 @@ Stack trace:
 REQUEST_URI=/index.php/reception/member/do
 HTTP_REFERER=http://www.test.com/index.php/reception/member/login
 ---
+2018/06/04 16:16:43 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in G:\mypront\timprot\mytestblog\framework\web\CController.php:337
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('register')
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#7 {main}
+REQUEST_URI=/index.php/reception/member/register
+HTTP_REFERER=http://www.testyii.com/index.php/reception/member/register
+---
+2018/06/04 16:16:44 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in G:\mypront\timprot\mytestblog\framework\web\CController.php:337
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('register')
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#7 {main}
+REQUEST_URI=/index.php/reception/member/register
+HTTP_REFERER=http://www.testyii.com/index.php/reception/member/register
+---
+2018/06/04 16:16:45 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in G:\mypront\timprot\mytestblog\framework\web\CController.php:337
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('register')
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#7 {main}
+REQUEST_URI=/index.php/reception/member/register
+HTTP_REFERER=http://www.testyii.com/index.php/reception/member/register
+---
+2018/06/04 16:30:46 [error] [php] Undefined variable: data (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:148)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/04 16:30:47 [error] [php] Undefined variable: data (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:148)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/04 16:30:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/member/
+---
+2018/06/04 16:31:09 [error] [php] Undefined variable: data (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:148)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/04 17:24:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "user".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('user')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('user')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/home/...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/home/user/login.html
+HTTP_REFERER=http://www.testyii.com/index.php/reception/home/index
+---

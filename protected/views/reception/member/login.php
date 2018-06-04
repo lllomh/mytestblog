@@ -8,7 +8,7 @@
             <div class='icon'>
                 <img alt="" src='/images/loginRegStem/user_icon_copy.png'>
             </div>
-            <input name="user" placeholder='昵称或者邮箱或者手机' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
+            <input name="user" placeholder='邮箱或用户名' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
             <div class='validation'>
                 <img alt="" src='/images/loginRegStem/tick.png'>
             </div>

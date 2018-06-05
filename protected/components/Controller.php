@@ -27,7 +27,7 @@ class Controller extends CController
 function P($data=null)
 {
     $now = $_SERVER['SERVER_ADDR'];
-    //线上关闭打印功能 http://www.twusa.cn/
+    //线上关闭打印功能 http://www.lllomh.cn/
     if ( trim($now) == '47.88.85.163' )
         return false;
 
@@ -45,7 +45,7 @@ function P($data=null)
 function H($data=null)
 {
     $now = $_SERVER['SERVER_ADDR'];
-    //线上关闭打印功能 http://www.twusa.cn/
+//线上关闭打印功能 http://www.lllomh.cn/
     if ( trim($now) == '47.88.85.163' )
         return false;
 

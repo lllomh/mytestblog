@@ -3,12 +3,11 @@
         <span><?=Yii::app()->params['title']?></span>
     </div>
     <div class='login_fields'>
-        <form method="post" name="form" action="<?=Yii::app()->createUrl('reception/member/reg')?>">
             <div class='login_fields__user'>
                 <div class='icon'>
                     <img alt="" src='/images/loginRegStem/user_icon_copy.png'>
                 </div>
-                <input name="user" placeholder='用户名,支持中英文数字' maxlength="16" type='text' autocomplete="off" value=""/>
+                <input name="user" placeholder='用户名,支持中英文数字[唯一]' maxlength="16" type='text' autocomplete="off" value=""/>
                 <div class='validation'>
                     <img alt="" src='/images/loginRegStem/tick.png'>
                 </div>
@@ -53,7 +52,7 @@
                 <input class="loggin" type='button' value='登录'>
                 <input style="color: white;background: #4FA1D9;" class="reg" type='button' value='注册'>
             </div>
-        </form>
+
     </div>
     <div class='success'>
     </div>
@@ -83,17 +82,6 @@
 <script type="text/javascript" src="/assets/reception/js/jquery.mockjax.js"></script>
 <script type="text/javascript">
 
-    var st = "<?=$data['stats']?>";
-     if(st==200){
-         layui.use('layer', function () {
-             ErroAlert('注册成功,马上跳转到登录页');
-         });
-
-         setTimeout(function () {
-             window.location.href='<?=Yii::app()->createUrl('reception/member/login')?>';
-         },3000)
-
-     }
 
     $(document).keypress(function (e) {
         // 回车键事件
@@ -131,28 +119,71 @@
             }, 200);
         }
     });
-    layui.use('layer', function () {
+
         //非空验证
-        $('.reg').click(function () {
-            var login = $('input[name="user"]').val();
-            var pwd1 = $('input[name="pass1"]').val();
-            var pwd2 = $('input[name="pass2"]').val();
-            var code = $('input[name="code"]').val();
-            if (login == '') {
-                ErroAlert('请输入您的账号');
-            } else if (pwd1 == '') {
-                ErroAlert('请输入密码');
-            }else if (pwd2 == '') {
-                ErroAlert('请输入密码');
-            } else if (code == '' || code.length != 4) {
-                ErroAlert('输入验证码');
-            }else if(pwd1!=pwd2){
-                ErroAlert('2次密码不一致');
-            }else {
-                $("form").submit();
-            }
-        })
-    });
+
+         $('.reg').click(function () {
+             var login = $('input[name="user"]').val();
+             var pwd1 = $('input[name="pass1"]').val();
+             var pwd2 = $('input[name="pass2"]').val();
+             var email = $('input[name="email"]').val();
+             var code = $('input[name="code"]').val();
+             if (login == '') {
+                 layui.use('layer', function () {
+                     ErroAlert('请输入您的账号');
+                 });
+             }else if(email== ''){
+                 layui.use('layer', function () {
+                     ErroAlert('请输入邮箱地址');
+                 });
+             }else if (pwd1 == '') {
+                 layui.use('layer', function () {
+                     ErroAlert('请输入密码');
+                 });
+             }else if (pwd2 == '') {
+                 layui.use('layer', function () {
+                     ErroAlert('请输入密码');
+                 });
+             } else if (code == '' || code.length != 4) {
+                 layui.use('layer', function () {
+                     ErroAlert('输入验证码');
+                 });
+             }else if(pwd1!=pwd2){
+                 layui.use('layer', function () {
+                     ErroAlert('2次密码不一致');
+                 });
+             }else {
+
+                 $.ajax({
+                     url: "<?=Yii::app()->createUrl('reception/member/reg')?>",
+                     type: 'post',
+                     data: {user:login,pass1:pwd1,email:email,code:code},
+                     dataType: 'JSON',
+                     success: function (data)
+                     {
+                        if(data.ststus==200){
+                            layui.use('layer', function () {
+                                ErroAlert('注册成功,马上跳转到登录页');
+                            });
+
+                            setTimeout(function () {
+                                window.location.href='<?=Yii::app()->createUrl('reception/member/login')?>';
+                            },3000)
+                        }else {
+                            layui.use('layer', function () {
+                                ErroAlert(data.ststus);
+                            });
+                        }
+
+                     },
+                     error:function (error) {
+                         alert(error);
+                     }
+                 });
+             }
+         });
+
+
 
 </script>
 

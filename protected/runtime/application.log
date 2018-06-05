@@ -10111,3 +10111,1432 @@ Stack trace:
 REQUEST_URI=/index.php/reception/home/user/login.html
 HTTP_REFERER=http://www.testyii.com/index.php/reception/home/index
 ---
+2018/06/05 11:16:55 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:25 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:26 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:26 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:27 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:27 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:30 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:32 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:32 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:46 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:17:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:03 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:05 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:05 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:18:51 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:32 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:46 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:58 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:58 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:19:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:00 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:00 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:01 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:05 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:05 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:05 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:06 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:20:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:46 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:46 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:22:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:02 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:03 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:03 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:04 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:09 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:09 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:09 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:28 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:29 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:29 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:30 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:30 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:30 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:23:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:25 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:26 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:26 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:27 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:27 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:35 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:36 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:36 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:29:36 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:12 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:13 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:13 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:14 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:14 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:14 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:14 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:15 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:15 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:16 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:16 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:16 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:23 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:24 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:24 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:25 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:25 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:31 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:45 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:30:47 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:32:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/member/
+---
+2018/06/05 11:41:34 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:36 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:37 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:38 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:38 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:38 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:39 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:39 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:40 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:40 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:40 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:40 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:43 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:52 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:53 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:54 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:58 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:41:59 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:06 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:06 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:07 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:08 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:09 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:10 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:15 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:29 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:30 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:123)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 11:42:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reception/member/captcha/v/5b1606bee7bf6".' in G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php:286
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#1 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/reception/member/captcha/v/5b1606bee7bf6
+HTTP_REFERER=http://www.testyii.com/index.php/reception/member/reg
+---
+2018/06/05 11:42:56 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:124)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 18:10:35 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 18:10:41 [error] [php] preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 14 (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg
+2018/06/05 18:17:28 [error] [php] preg_match(): Unknown modifier '/' (G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php:131)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/reg

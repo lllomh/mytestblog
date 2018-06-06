@@ -40,7 +40,7 @@
     <div class='success'>
     </div>
     <div class='disclaimer'>
-        <p>1</p>
+        <p>忘记密码? <a href="#" style="color: #fff"> 找回</a></p>
     </div>
 </div>
 <div class='authent'>

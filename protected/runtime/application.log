@@ -11540,3 +11540,111 @@ Stack trace:
 #5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
 #6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
 REQUEST_URI=/index.php/reception/member/reg
+2018/06/06 10:39:52 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CBaseController.php(95): HomeController->renderInternal()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(787): HomeController->renderFile()
+#2 G:\mypront\timprot\mytestblog\protected\controllers\reception\HomeController.php(21): HomeController->render()
+#3 G:\mypront\timprot\mytestblog\framework\web\actions\CInlineAction.php(49): HomeController->actionIndex()
+#4 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): HomeController->runAction()
+#6 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): HomeController->runActionWithFilters()
+#7 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): HomeController->run()
+#8 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/06 10:39:56 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CBaseController.php(95): HomeController->renderInternal()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(787): HomeController->renderFile()
+#2 G:\mypront\timprot\mytestblog\protected\controllers\reception\HomeController.php(21): HomeController->render()
+#3 G:\mypront\timprot\mytestblog\framework\web\actions\CInlineAction.php(49): HomeController->actionIndex()
+#4 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): HomeController->runAction()
+#6 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): HomeController->runActionWithFilters()
+#7 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): HomeController->run()
+#8 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/06 10:40:13 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:30 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:31 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:32 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:32 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:32 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:45 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login
+2018/06/06 10:40:46 [error] [php] Trying to get property of non-object (G:\mypront\timprot\mytestblog\protected\components\CommFun.php:17)
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): MemberController->runAction()
+#2 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): MemberController->runActionWithFilters()
+#3 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): MemberController->run()
+#4 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/member/login

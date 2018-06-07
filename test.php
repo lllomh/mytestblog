@@ -38,6 +38,21 @@
 //
 //
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 include("connect.php");
 $verify = stripslashes(trim($_GET['verify']));
 $nowtime = time();

@@ -11648,3 +11648,51 @@ Stack trace:
 #5 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
 #6 G:\mypront\timprot\mytestblog\index.php(11): CWebApplication->run()
 REQUEST_URI=/index.php/reception/member/login
+2018/06/07 11:00:59 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `b_user` `t` WHERE status = 0 AND user_status_token =  LIMIT 1.
+2018/06/07 11:01:00 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `b_user` `t` WHERE status = 0 AND user_status_token =  LIMIT 1' in G:\mypront\timprot\mytestblog\framework\db\CDbCommand.php:543
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\db\CDbCommand.php(415): CDbCommand->queryInternal('fetch', Array, Array)
+#1 G:\mypront\timprot\mytestblog\framework\db\ar\CActiveRecord.php(1359): CDbCommand->queryRow()
+#2 G:\mypront\timprot\mytestblog\framework\db\ar\CActiveRecord.php(1464): CActiveRecord->query(Object(CDbCriteria))
+#3 G:\mypront\timprot\mytestblog\protected\controllers\reception\MemberController.php(221): CActiveRecord->find('status = 0 AND ...')
+#4 G:\mypront\timprot\mytestblog\framework\web\actions\CInlineAction.php(49): MemberController->actionActive()
+#5 G:\mypront\timprot\mytestblog\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 G:\mypront\timprot\mytestblog\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#7 G:\mypront\timprot\mytestblog\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('active')
+#9 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#10 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#12 {main}
+REQUEST_URI=/index.php/reception/member/active/verify=31bc0cc2b1bf76a781b935ba5b5e26b0
+---
+2018/06/07 14:41:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "possword".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('possword')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('possword')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/member/possword
+---
+2018/06/07 14:41:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "possword1".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('possword1')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('possword1')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/member/possword1
+---
+2018/06/07 14:41:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "possword112121".' in G:\mypront\timprot\mytestblog\framework\web\CController.php:486
+Stack trace:
+#0 G:\mypront\timprot\mytestblog\framework\web\CController.php(270): CController->missingAction('possword112121')
+#1 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(282): CController->run('possword112121')
+#2 G:\mypront\timprot\mytestblog\framework\web\CWebApplication.php(141): CWebApplication->runController('reception/membe...')
+#3 G:\mypront\timprot\mytestblog\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 G:\mypront\timprot\mytestblog\index.php(11): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/reception/member/possword112121
+---

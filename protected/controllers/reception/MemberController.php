@@ -118,7 +118,6 @@ class MemberController extends Controller
 
     public function actionReg(){
             $stasus=true;
-
             $user =Yii::app()->request->getParam('user');
             $pass1 =Yii::app()->request->getParam('pass1');
             //$pass2 =Yii::app()->request->getParam('pass2');
@@ -128,9 +127,7 @@ class MemberController extends Controller
             $condition ='username = '."'".$user."'";
             $userStem = BUser::model()->find($condition);
             if(empty($userStem)){
-
                 if(!preg_match('/^[\w\_]{6,20}$/u',$user)){
-
                     $data['ststus']='用户名必须用英文、数字、下划线6-20位字符';
                     $stasus=false;
                 }
@@ -170,20 +167,44 @@ class MemberController extends Controller
                         $pass1 = sha1(md5($pass1 . Yii::app()->params['userpassKey']));
 //                      $pass2 = sha1(md5($pass2.Yii::app()->params['userpassKey']));
 
-                        Yii::app()->db->createCommand()->insert('b_user',//表增加新数据
+                        $regtime = time();
+                        $user_status_token = md5($user.$regtime); //创建用于激活识别码
+                        $user_status_token_exptime = time()+60*60*24;//过期时间为24小时后
 
+
+                        //邮件发送
+                        $mail = Yii::App()->mail;
+                        $mail->IsSMTP();
+                        $mail->AddAddress($email , $user);
+                        $mail->IsHTML(true); //支持html格式内容
+                        $mail->Subject = @"星芒社区用户账户激活"; //邮件标题
+                        $mail->Body = @"亲爱的".$user.': <br/> 感谢您在我站注册了新帐号。<br/> 请点击链接激活您的帐号。<br/><a href= http://www.testyii.com/index.php/reception/member/active/verify/'.$user_status_token.'target= "_blank" >http://www.testyii.com/index.php/reception/member/active/verify/'.$user_status_token.'</a><br/>如果以上链接无法点击，请将它复制到你的浏览器地址栏中进入访问，该链接24小时内有效。<br/>如果此次激活请求非你本人所发，请忽略本邮件。<br/><p style="text-align:right">-------- 星芒社区管理员</p>'; //邮件内容
+                        if(!$mail->Send())
+                        {
+                            echo $mail->ErrorInfo;
+                            $email_status='0';
+                            // return false;
+                        }else{
+                            $email_status='1';
+                            // return true;
+
+                        }
+
+                        Yii::app()->db->createCommand()->insert('b_user',//表增加新数据
                             array(
                                 'username' => $user,
                                 'nickname' => $user,
                                 'password' => $pass1,
-                                'email'=> $email
+                                'email'=> $email,
+                                'user_status_token' => $user_status_token,
+                                'user_status_token_exptime' => $user_status_token_exptime,
+                                'email_status'=>$email_status,
+                                'regtime' => $regtime
                             )
                         );
-
                         $data['ststus']=200;
                     }else{
                         $data['ststus']='验证码错误';
-
                     }
                 }
             }else{
@@ -191,6 +212,37 @@ class MemberController extends Controller
             }
 
         echo json_encode($data);
+    }
+
+    public function actionActive(){
+        $verifys  =Yii::app()->request->getParam('verify');
+
+        $nowtime = time();
+        $usermessge = BUser::model()->find('status = 0 AND user_status_token = '."'".$verifys."'");
+
+        if($usermessge){
+            if($nowtime>$usermessge->user_status_token_exptime){ //30min
+                $data['msg'] = '您的激活有效期已过，请登录您的帐号重新发送激活邮件.';
+            }else{
+                $usermessge->status = 1;
+                $stasu = $usermessge->save();
+                if(!empty($stasu)){
+                    $data['msg'] = "激活成功";
+                    $data['msgstus'] = 200;
+                }
+            }
+        }else{
+             $data['msg'] = '此链接已经失效';
+        }
+
+        $this->renderPartial('active',array('data'=>$data));
+
+    }
+
+    public function actionPassword(){
+
+
+        $this->render('password');
     }
 
     public function actions()

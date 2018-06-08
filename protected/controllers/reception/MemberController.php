@@ -6,6 +6,7 @@ class MemberController extends Controller
     public $layout = '//layouts/loginStem'; //公用部件
 
 
+    //登录
     public function actionLogin()
     {
         $confun = CommFun::userIsLogin();
@@ -17,6 +18,7 @@ class MemberController extends Controller
         $this->render('login');
     }
 
+    //登录处理
     public function actionDo(){
         //Yii::import('application.models.BUser');
 
@@ -93,6 +95,7 @@ class MemberController extends Controller
 
     }
 
+    //登出处理
     public function actionOut(){
 
         //移除 session
@@ -105,6 +108,7 @@ class MemberController extends Controller
 
     }
 
+    //注册
     public function actionRegister()
     {
 
@@ -116,6 +120,7 @@ class MemberController extends Controller
         $this->render('register');
     }
 
+    //注册处理
     public function actionReg(){
             $stasus=true;
             $user =Yii::app()->request->getParam('user');
@@ -124,7 +129,7 @@ class MemberController extends Controller
             $email =Yii::app()->request->getParam('email');
             $verify =Yii::app()->request->getParam('code');
 
-            $condition ='username = '."'".$user."'";
+            $condition ='username = '."'".$user."'".'OR email = '."'".$email."'";
             $userStem = BUser::model()->find($condition);
             if(empty($userStem)){
                 if(!preg_match('/^[\w\_]{6,20}$/u',$user)){
@@ -171,14 +176,14 @@ class MemberController extends Controller
                         $user_status_token = md5($user.$regtime); //创建用于激活识别码
                         $user_status_token_exptime = time()+60*60*24;//过期时间为24小时后
 
-
+                        $url =Yii::app()->params['url'];
                         //邮件发送
                         $mail = Yii::App()->mail;
                         $mail->IsSMTP();
                         $mail->AddAddress($email , $user);
                         $mail->IsHTML(true); //支持html格式内容
                         $mail->Subject = @"星芒社区用户账户激活"; //邮件标题
-                        $mail->Body = @"亲爱的".$user.': <br/> 感谢您在我站注册了新帐号。<br/> 请点击链接激活您的帐号。<br/><a href= http://www.testyii.com/index.php/reception/member/active/verify/'.$user_status_token.'target= "_blank" >http://www.testyii.com/index.php/reception/member/active/verify/'.$user_status_token.'</a><br/>如果以上链接无法点击，请将它复制到你的浏览器地址栏中进入访问，该链接24小时内有效。<br/>如果此次激活请求非你本人所发，请忽略本邮件。<br/><p style="text-align:right">-------- 星芒社区管理员</p>'; //邮件内容
+     $mail->Body = @"亲爱的".$user.': <br/> 感谢您在我站注册了新帐号。<br/> 请点击链接激活您的帐号。<br/><a href= '.$url.'/index.php/reception/member/active/verify/'.$user_status_token.' target="_blank">'.$url.'/index.php/reception/member/active/verify/'.$user_status_token.'</a><br/>如果以上链接无法点击，请将它复制到你的浏览器地址栏中进入访问，该链接24小时内有效。<br/>如果此次激活请求非你本人所发，请忽略本邮件。<br/><p style="text-align:right">-------- 星芒社区管理员</p>'; //邮件内容
                         if(!$mail->Send())
                         {
                             echo $mail->ErrorInfo;
@@ -195,11 +200,11 @@ class MemberController extends Controller
                                 'username' => $user,
                                 'nickname' => $user,
                                 'password' => $pass1,
-                                'email'=> $email,
+                                'email'    => $email,
                                 'user_status_token' => $user_status_token,
                                 'user_status_token_exptime' => $user_status_token_exptime,
                                 'email_status'=>$email_status,
-                                'regtime' => $regtime
+                                'regtime'  => $regtime
                             )
                         );
                         $data['ststus']=200;
@@ -208,12 +213,13 @@ class MemberController extends Controller
                     }
                 }
             }else{
-                $data['ststus']='该用户名已存在';
+                $data['ststus']='该用户名或者该邮箱已存在[一个邮箱只能注册一个用户],请用用户名或者邮箱登录';
             }
 
         echo json_encode($data);
     }
 
+    //激活邮箱处理
     public function actionActive(){
         $verifys  =Yii::app()->request->getParam('verify');
 
@@ -239,10 +245,103 @@ class MemberController extends Controller
 
     }
 
+    //找回密码
     public function actionPassword(){
 
+        $confun = CommFun::userIsLogin();
+        if(!empty($confun)){
+            $this->redirect(Yii::app()->createUrl('reception/home/index'));
+        }
 
         $this->render('password');
+    }
+        //找回密码邮件发送
+    public function actionPwd(){
+        $user =Yii::app()->request->getParam('user');
+        $verify =Yii::app()->request->getParam('code');
+
+        if(preg_match('/\w[-\w.+]*@([A-Za-z0-9][-A-Za-z0-9]+\.)+[A-Za-z]{2,14}/',$user)){
+            $condition ='email = '."'".$user."'";
+        }else{
+            $condition ='username = '."'".$user."'";
+        }
+
+        $userStem = BUser::model()->find($condition);
+        if(!empty($userStem)){
+
+            if ($this->createAction('captcha')->validate($verify, false)) {
+
+                $email = $userStem->email;
+                $newtime = time();
+                $pwdtoken = md5($user.$newtime); //创建用于激活识别码
+                $pwdtoken_exptime = time()+60*60*24;//过期时间为24小时后
+
+
+                $url =Yii::app()->params['url'];
+                //邮件发送
+                $mail = Yii::App()->mail;
+                $mail->IsSMTP();
+                $mail->AddAddress($email , $user);
+                $mail->IsHTML(true); //支持html格式内容
+                $mail->Subject = @"星芒社区用户找回密码"; //邮件标题
+                $mail->Body = @"亲爱的".$user.': <br/> 感谢使用找回密码。<br/> 请点击链接找回密码。<br/><a href='.$url.'/index.php/reception/member/passwords/verify/'.$pwdtoken.' target="_blank">'.$url.'/index.php/reception/member/passwords/verify/'.$pwdtoken.'</a><br/>如果以上链接无法点击，请将它复制到你的浏览器地址栏中进入访问，该链接24小时内有效。<br/>如果此次找回密码请求非你本人所发，请忽略本邮件。<br/><p style="text-align:right">-------- 星芒社区管理员</p>'; //邮件内容
+                if(!$mail->Send())
+                {
+//                    echo $mail->ErrorInfo;
+                    $data['stusa']='发送失败';
+                    $data['code']='304';
+                    // return false;
+                }else{
+                    $data['stusa']='已向您邮箱发送邮件,请查收';
+                    $data['code']='200';
+                    // return true;
+                    Yii::app()->session['var']='value';
+
+
+                }
+
+                $userStem->pwdtoken=$pwdtoken;
+                $userStem->pwdtoken_exptime=$pwdtoken_exptime;
+                $userStem->save();
+
+            }else{
+                $data['stusa']='验证码错误';
+            }
+
+        }else{
+            $data['stusa']='该用户还未注册';
+        }
+
+        echo json_encode($data);
+    }
+
+    //找回密码邮件处理
+    public function actionPasswords(){
+
+        $verifys  =Yii::app()->request->getParam('verify');
+
+        $nowtime = time();
+        $usermessge = BUser::model()->find('pwdtoken = '."'".$verifys."'");
+
+        if($usermessge){
+            if($nowtime>$usermessge->pwdtoken_exptime){ //30min
+                $data['msg'] = '您的链接有效期已过，请重新回密码';
+            }else{
+                  if(!empty(Yii::app()->session['var'])){
+                      $usermessge->password='fdb6394be1d232819b457dd642668c3c87484f21';
+                      $usermessge->pwd_cunt+=1;
+                      $usermessge->save();
+                      $data['msg'] = '亲爱的'.$usermessge->username.'您的密码已重置为:a123456,请尽快登录用户中心修改';
+                      unset(Yii::app()->session['var']);
+                  }else{
+                      $data['msg'] = '此链接已经失效';
+                  }
+            }
+        }else{
+            $data['msg'] = '此链接已经失效';
+        }
+
+        $this->renderPartial('passwords',array('data'=>$data));
     }
 
     public function actions()

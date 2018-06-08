@@ -57,7 +57,7 @@
     <div class='success'>
     </div>
     <div class='disclaimer'>
-        <p>1</p>
+        <p></p>
     </div>
 </div>
 <div class='authent'>
@@ -163,12 +163,12 @@
                      {
                         if(data.ststus==200){
                             layui.use('layer', function () {
-                                ErroAlert('注册成功,马上跳转到登录页');
+                                ErroAlert('注册成功,并已向您邮箱发送激活邮件,请尽快去激活!马上跳转到登录页');
                             });
 
                             setTimeout(function () {
                                 window.location.href='<?=Yii::app()->createUrl('reception/member/login')?>';
-                            },3000)
+                            },4000)
                         }else {
                             layui.use('layer', function () {
                                 ErroAlert(data.ststus);
@@ -182,7 +182,6 @@
                  });
              }
          });
-
 
 
 </script>

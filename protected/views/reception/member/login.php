@@ -8,7 +8,7 @@
             <div class='icon'>
                 <img alt="" src='/images/loginRegStem/user_icon_copy.png'>
             </div>
-            <input name="user" placeholder='邮箱或用户名' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
+            <input name="user" placeholder='邮箱或用户名' type='text' autocomplete="off" value="<?=$data['user']?>"/>
             <div class='validation'>
                 <img alt="" src='/images/loginRegStem/tick.png'>
             </div>
@@ -40,7 +40,7 @@
     <div class='success'>
     </div>
     <div class='disclaimer'>
-        <p>忘记密码? <a href="#" style="color: #fff"> 找回</a></p>
+        <p>忘记密码? <a href="<?=Yii::app()->createUrl('reception/member/password')?>" style="color: #fff"> 找回</a></p>
     </div>
 </div>
 <div class='authent'>

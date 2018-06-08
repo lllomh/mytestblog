@@ -1,14 +1,13 @@
 <div class='login'>
     <div class='login_title'>
-        <span><?=Yii::app()->params['title']?></span>
+        <span>找回密码</span>
     </div>
     <div class='login_fields'>
-        <form method="post" name="form" action="<?=Yii::app()->createUrl('reception/member/do')?>">
             <div class='login_fields__user'>
                 <div class='icon'>
                     <img alt="" src='/images/loginRegStem/user_icon_copy.png'>
                 </div>
-                <input name="user" placeholder='邮箱或用户名' maxlength="16" type='text' autocomplete="off" value="<?=$data['user']?>"/>
+                <input name="user" placeholder='邮箱或用户名' type='text' autocomplete="off" value="<?=$data['user']?>"/>
                 <div class='validation'>
                     <img alt="" src='/images/loginRegStem/tick.png'>
                 </div>
@@ -23,15 +22,13 @@
                 </div>
             </div>
             <div class='login_fields__submit'>
-                <input style="color: white;background: #4FA1D9;" class="loggin" type='button' value='登录'>
-                <input class="reg" type='button' value='注册'>
+                <input class="reg" type='button' value='下一步'>
             </div>
-        </form>
     </div>
     <div class='success'>
     </div>
     <div class='disclaimer'>
-        <p>忘记密码? <a href="#" style="color: #fff"> 找回</a></p>
+        <p>已有账号? <a href="<?=Yii::app()->createUrl('reception/member/login')?>" style="color: #fff"> 登录</a></p>
     </div>
 </div>
 <div class='authent'>
@@ -55,29 +52,12 @@
 <script type="text/javascript" src="/assets/reception/js/Treatment.js"></script>
 <script type="text/javascript" src="/assets/reception/js/jquery.mockjax.js"></script>
 <script type="text/javascript">
-    var stats = <?=empty($data['stats'])?'0':$data['stats']?>;
-    if(stats==305){
-        layui.use('layer', function () {
-            ErroAlert('验证码错误');
-        });
-    }else if(stats==400){
-        layui.use('layer', function () {
-            ErroAlert('密码错误');
-        });
-    }else if(stats==304){
-        layui.use('layer', function () {
-            ErroAlert('用户名不存在');
-        });
-    }
 
     $(document).keypress(function (e) {
         // 回车键事件
         if (e.which == 13) {
-            $('.loggin').click();
+            $('.reg').click();
         }
-    });
-    $(".reg").click(function () {
-        window.location.href='<?=Yii::app()->createUrl('reception/member/register')?>';
     });
 
     $('input[name="pwd"]').focus(function () {
@@ -103,19 +83,33 @@
             }, 200);
         }
     });
+
     layui.use('layer', function () {
         //非空验证
-        $('.loggin').click(function () {
+        $('.reg').click(function () {
             var login = $('input[name="user"]').val();
-            var pwd = $('input[name="pass"]').val();
             var code = $('input[name="code"]').val();
             if (login == '') {
                 ErroAlert('请输入您的账号');
-
             } else if (code == '' || code.length != 4) {
                 ErroAlert('输入验证码');
             } else {
-                $("form").submit();
+                $.ajax({
+                    url: "<?=Yii::app()->createUrl('reception/member/pwd')?>",
+                    type: 'post',
+                    data: {user:login,code:code},
+                    dataType: 'JSON',
+                    success: function (data)
+                    {
+                        layui.use('layer', function () {
+                            ErroAlert(data['stusa']);
+                        });
+
+                    },
+                    error:function (error) {
+                        console.log(error);
+                    }
+                });
             }
         })
     });

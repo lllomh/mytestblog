@@ -4,6 +4,7 @@
 return array(
 	// this is displayed in the header section
 	'title'=>'My Yii Blog',
+	'url'=>'http://www.testyii.com',
 	// this is used in error pages
 	'adminEmail'=>'lllomh@qq.com',
 	// number of posts displayed per page

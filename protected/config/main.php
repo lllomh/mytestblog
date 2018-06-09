@@ -80,7 +80,7 @@ return array(
             'Host' => 'smtp.yeah.net', // 您的企业邮局域名
             'SMTPAuth' => true, // 启用SMTP验证功能
             'Username' => 'thisadmin@yeah.net', // 邮局用户名(请填写完整的email地址)
-            'Password' => 'gs67H454', // 邮局密码
+            'Password' => 'gs67H45', // 邮局密码
             'Port'=>25,
             'From' => 'thisadmin@yeah.net', //邮件发送者email地址
             'FromName' => 'admin',

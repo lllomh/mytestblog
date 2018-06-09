@@ -11,10 +11,22 @@ class UsercententController extends ReceptionController
 
     public function actionBasic()
     {
+        $confun = CommFun::userIsLogin();
 
+        if(empty($confun)){
+            $this->redirect(Yii::app()->createUrl('reception/home/index'));
+        }
 
         $this->render('basic/index');
     }
+
+
+
+
+
+
+
+
 
     public function actionsave(){
 //        print_r(Yii::app()->request->getParam( 'ee'));

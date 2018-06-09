@@ -17,7 +17,9 @@ class UsercententController extends ReceptionController
             $this->redirect(Yii::app()->createUrl('reception/home/index'));
         }
 
-        $this->render('basic/index');
+        $Basic = BUser::model()->find('user_id= '."'".$confun[0]."'");
+        $data['basic']=$Basic;
+        $this->render('basic/index',array('data'=>$data));
     }
 
 

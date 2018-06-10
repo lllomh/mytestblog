@@ -23,9 +23,10 @@
 
             <?php
             $confun = CommFun::userIsLogin();
-            $Basic = BUser::model()->find('user_id= '."'".$confun[0]."'");
-            $data['basic']=$Basic;
-            if(!empty($confun)) :?>
+            if(!empty($confun)) :
+                $Basic = BUser::model()->find('user_id= '."'".$confun[0]."'");
+                $data['basic']=$Basic;
+                ?>
                 <!-- 登入的状态 -->
                 <li class="layui-nav-item">
                     <a class="fly-nav-avatar" href="javascript:;">

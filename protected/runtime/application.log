@@ -341,3 +341,55 @@ Stack trace:
 REQUEST_URI=/index.php/reception/usercentent/basic
 HTTP_REFERER=http://www.test.com/index.php/reception/home/index
 ---
+2018/06/10 18:26:59 [error] [php] Uninitialized string offset: 0 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/10 18:27:04 [error] [php] Uninitialized string offset: 0 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/10 18:27:05 [error] [php] Uninitialized string offset: 0 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index
+2018/06/10 18:27:09 [error] [php] Uninitialized string offset: 0 (/Users/gonghaibo/www/mytestblog/protected/views/layouts/main.php:24)
+Stack trace:
+#0 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(787): HomeController->renderFile()
+#1 /Users/gonghaibo/www/mytestblog/protected/controllers/reception/HomeController.php(21): HomeController->render()
+#2 /Users/gonghaibo/www/mytestblog/framework/web/actions/CInlineAction.php(49): HomeController->actionIndex()
+#3 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(286): HomeController->runAction()
+#5 /Users/gonghaibo/www/mytestblog/framework/web/CController.php(265): HomeController->runActionWithFilters()
+#6 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(282): HomeController->run()
+#7 /Users/gonghaibo/www/mytestblog/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /Users/gonghaibo/www/mytestblog/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Users/gonghaibo/www/mytestblog/index.php(11): CWebApplication->run()
+REQUEST_URI=/index.php/reception/home/index

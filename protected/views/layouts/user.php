@@ -23,11 +23,13 @@
 
             <?php
             $confun = CommFun::userIsLogin();
+            $Basic = BUser::model()->find('user_id= '."'".$confun[0]."'");
+            $data['basic']=$Basic;
             if(!empty($confun)) :?>
                 <!-- 登入的状态 -->
                 <li class="layui-nav-item">
                     <a class="fly-nav-avatar" href="javascript:;">
-                        <cite class="layui-hide-xs"><?=CommFun::getUserName()?></cite>
+                        <cite class="layui-hide-xs"><?=$data['basic']->nickname?></cite>
                         <i class="iconfont icon-renzheng layui-hide-xs" title="认证信息：layui 作者"></i>
                         <i class="layui-badge fly-badge-vip layui-hide-xs">VIP3</i>
                         <img src="https://tva1.sinaimg.cn/crop.0.0.118.118.180/5db11ff4gw1e77d3nqrv8j203b03cweg.jpg">

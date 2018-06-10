@@ -18,19 +18,16 @@
         <a class="fly-logo" href="/">
             <img src="/images/reception/logo.png" alt="layui">
         </a>
-
-
         <ul class="layui-nav fly-nav-user">
-
-<!--            <a href="--><?//=Yii::app()->createUrl('reception/home/index')?><!--">test</a>-->
-<!--            <a href="--><?//=Yii::app()->createUrl('home/index')?><!--">test2</a>-->
             <?php
             $confun = CommFun::userIsLogin();
+            $Basic = BUser::model()->find('user_id= '."'".$confun[0]."'");
+            $data['basic']=$Basic;
             if(!empty($confun)) :?>
                 <!-- 登入的状态 -->
                 <li class="layui-nav-item">
                     <a class="fly-nav-avatar" href="javascript:;">
-                        <cite class="layui-hide-xs"><?=CommFun::getUserName()?></cite>
+                        <cite class="layui-hide-xs"><?=$data['basic']->nickname?></cite>
                         <i class="iconfont icon-renzheng layui-hide-xs" title="认证信息：layui 作者"></i>
                         <i class="layui-badge fly-badge-vip layui-hide-xs">VIP3</i>
                         <img src="https://tva1.sinaimg.cn/crop.0.0.118.118.180/5db11ff4gw1e77d3nqrv8j203b03cweg.jpg">
@@ -60,7 +57,6 @@
                 <li class="layui-nav-item layui-hide-xs">
                     <a href="/app/weibo/" onclick="layer.msg('正在通过微博登入', {icon:16, shade: 0.1, time:0})" title="微博登入" class="iconfont icon-weibo"></a>
                 </li>
-
 
                 <a href="<?=Yii::app()->createUrl('reception/member/login')?>">登录</a>
             <?php endif;?>

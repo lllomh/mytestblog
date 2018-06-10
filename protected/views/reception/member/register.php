@@ -163,7 +163,7 @@
                      {
                         if(data.ststus==200){
                             layui.use('layer', function () {
-                                ErroAlert('注册成功,并已向您邮箱发送激活邮件,请尽快去激活!马上跳转到登录页');
+                                ErroAlert('注册成功,并已向您邮箱发送激活邮件,请尽快去激活!如没收到,请留意下垃圾箱,现马上跳转到登录页');
                             });
 
                             setTimeout(function () {

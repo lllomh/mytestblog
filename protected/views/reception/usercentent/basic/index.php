@@ -23,7 +23,7 @@
                         </div>
                         <div class="layui-inline">
                             <div class="layui-input-inline">
-                                <input type="radio" name="sex" value="0" checked title="男">
+                                <input type="radio" name="sex" value="0" title="男">
                                 <input type="radio" name="sex" value="1" title="女">
                             </div>
                         </div>
